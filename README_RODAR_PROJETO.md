@@ -1,4 +1,4 @@
-# OptiSpace integrado: Front-end + Backend Django com Login
+# OptiSpace integrado: Front-end + Backend 
 
 ## 1. Rodar o backend
 
@@ -26,16 +26,6 @@ npm run dev
 
 Front-end: normalmente `http://localhost:5173`
 
-## O que foi integrado agora
-
-- Cadastro de usuário pela tela **Cadastrar**.
-- Login real pela tela **Login**.
-- Autenticação com **Token Authentication** do Django REST Framework.
-- Rotas `/app` protegidas no front-end.
-- Análises de plantio vinculadas ao usuário logado.
-- Cada usuário visualiza somente seus próprios relatórios.
-- Botão **Sair** remove a sessão e volta para o login.
-- Download de PDF autenticado.
 
 ## Rotas principais da API
 
