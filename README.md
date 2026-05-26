@@ -148,9 +148,11 @@ Depois de rodar `python manage.py migrate`, o SQLite será criado automaticament
 
 ---
 
-# 👨‍💻 Autor
+# 👨‍💻 Autores
 
-Maicon Silva
+Maicon Luis Silva
+Bruno de Morais Nicolau
+Henry Freitas dos Santos
 
 ---
 
